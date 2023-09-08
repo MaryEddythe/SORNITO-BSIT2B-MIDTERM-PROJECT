@@ -1,0 +1,2 @@
+0 mask_detected
+1 no_mask
